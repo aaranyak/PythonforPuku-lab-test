@@ -15,7 +15,7 @@ Finally it teaches how to use them in real-life contexts
 
 Hope you enjoy it!
 
-For more information, contact [Aaranyak](aaranyak@github.com)
+For more information, contact [Aaranyak](https://github.com/aaranyak/)
 
 ---
 
